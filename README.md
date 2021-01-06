@@ -1,2 +1,2 @@
-# PHP-SPA
+# PHP-SPA-PWA
  SPA in PHP
